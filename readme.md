@@ -1,7 +1,7 @@
-# Hashstack will release  its <ins>Whitepaper</ins> in July
+# Hashstack will release  its <ins>Whitepaper</ins> in July,2021.
 
 ## Product suite
-1. Anchor: https://docs.hashstack.finance/product-suite/fixed-risk-crypto-futures.
+1. Anchor: https://docs.hashstack.finance/product-suite/fixed-risk-crypto-futures
 2. Deposits(18-24% apy):https://docs.hashstack.finance/product-suite/savings
 3. Loans 1:3 cdp: https://docs.hashstack.finance/product-suite/under_collateralised-loans
 4. NIFTY(NFT 2.0): https://docs.hashstack.finance/product-suite/not-just-art

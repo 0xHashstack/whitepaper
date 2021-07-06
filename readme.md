@@ -29,8 +29,8 @@
 
 ## Contact
 
-General queries: hello@hashstack.finance
-Partnerships: Yui@hashstack.finance
+1. General queries: hello@hashstack.finance
+2. Partnerships: Yui@hashstack.finance
 
 
-> Hashstack is a money market protocol ecosystem designed to amplify the efficacy of decentralized financial services.
+> **Hashstack** is a money market protocol network designed to amplify the efficacy of decentralized financial services.

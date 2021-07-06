@@ -13,10 +13,10 @@
 
 
 ## Useful links
-1. Website: hashstack.finance
-2. Blog: hashstack.medium.com
-3. Docs: docs.hashstack.finance
-4. Careers: docs.hashstack.finance/careers
+1. Website: [hashstack.finance](hashstack.finance)
+2. Blog: [hashstack.medium.com](hashstack.medium.com)
+3. Docs: [docs.hashstack.finance](docs.hashstack.finance)
+4. Careers: [docs.hashstack.finance/careers](docs.hashstack.finance/careers)
 
 
 ## Social

@@ -1,7 +1,6 @@
 # Hashstack will release  its <ins>Whitepaper</ins> in July,2021.
 
 
-
 ## Product suite
 1. Anchor: https://docs.hashstack.finance/product-suite/fixed-risk-crypto-futures
 2. Deposits(18-24% apy):https://docs.hashstack.finance/product-suite/savings

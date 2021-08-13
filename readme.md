@@ -1,4 +1,6 @@
-> [Hashstack](https://hashstack.finance) is on a mission to build an ecosystem of trustless, borderless decentralised financial products that serve the needs of millions of underserved around the world.
+
+## What is new?
+We have released whitepaper for our lending product, Open protocol. Available [here](https://github.com/0xHashstack/papers/tree/main/Open%20protocol).
 
 <br />
 

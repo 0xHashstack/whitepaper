@@ -1,10 +1,7 @@
 
 # Open protocol
 
-Hashstack's autonomous lending framework.
-
-
-> Open protocol is an autonomous lending framework enabling under-collateralized loans for upto 1:3 collateral-to-debt ratio.
+> Built by Hashstack, Open protocol is an autonomous lending framework enabling under-collateralized loans at upto 1:3 collateral-to-debt ratio.
 
 <br />
 

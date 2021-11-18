@@ -6,8 +6,7 @@ We have released whitepaper for our lending product, Open protocol. Available [h
 
 # Open protocol
 
-> Non-custodial defi's only under-collateralised lending protocol for enabling
-> loans at 1:3 collateral-to-debt ratio.
+> Non-custodial defi's only lending protocol  enabling under-collateralised loans at 1:3 collateral-to-debt ratio.
 
 <br />
 Author: Max Takahashi
@@ -27,14 +26,13 @@ Author: Max Takahashi
    - Added the role of a liquidator.
    - Discount sharing arrangement between the protoocl and the liquidators.
 3. Markets
-   - Expanded primary markets to support major liquid coins - BTC, USDT, USDC,
-     BSC, & Hashstack's native governance token - HASH.
-4. Repayment
+   - Expanded primary markets to support major liquid coins - BTC, USDT, USDC, BNB, & Hashstack's native governance token - HASH.
+1. Repayment
    - Added two methods of loan repayment
      1. Repay by swapping the collateral, and the debt held on the protocol into the actual loan market.
      2. Repay by transferring the loan amount & the loan market to the protocol.
 
-5. Epoch
+2. Epoch
    - Updated epoch from 1 epoch = 1 block to 1 epoch = 3 seconds.
    - Open protocol will rely on timestamp as a measure of time, in contrary to
      the previous approach of using block number.

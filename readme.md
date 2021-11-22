@@ -24,15 +24,15 @@ Author: Max Takahashi
    - Improved liquidation with a community-driven liquidation mechanism, and a
      protocol automated, as a fail-safe method.
    - Added the role of a liquidator.
-   - Discount sharing arrangement between the protoocl and the liquidators.
+   - Discount sharing arrangement between the protocol and the liquidators.
 3. Markets
    - Expanded primary markets to support major liquid coins - BTC, USDT, USDC, BNB, & Hashstack's native governance token - HASH.
-1. Repayment
+4. Repayment
    - Added two methods of loan repayment
      1. Repay by swapping the collateral, and the debt held on the protocol into the actual loan market.
      2. Repay by transferring the loan amount & the loan market to the protocol.
 
-2. Epoch
+5. Epoch
    - Updated epoch from 1 epoch = 1 block to 1 epoch = 3 seconds.
    - Open protocol will rely on timestamp as a measure of time, in contrary to
      the previous approach of using block number.

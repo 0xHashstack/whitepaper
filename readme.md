@@ -68,4 +68,4 @@ Decentralised finance[hereafter defi] has enabled millions around the world with
 ## Contact
 
 1. General queries: [hello@hashstack.finance](hello@hashstack.finance)
-2. Partnerships: [Yui@hashstack.finance](Yui@hashstack.finance)
+<!-- 2. Partnerships: [Yui@hashstack.finance](Yui@hashstack.finance) -->

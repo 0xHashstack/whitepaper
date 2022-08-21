@@ -9,7 +9,7 @@ We have released whitepaper for our lending product, Open protocol. Available [h
 > Non-custodial defi's only lending protocol  enabling under-collateralised loans at 1:3 collateral-to-debt ratio.
 
 <br />
-Author: Max Takahashi
+Author: Hashstack 
 <br />
 
 #

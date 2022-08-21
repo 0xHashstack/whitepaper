@@ -20,8 +20,20 @@ DeFi lending, a critical application of decentralised finance, has been at the f
 
 This is a working draft, and must be treated as such. Over time, the end product has surpassed the the assumptions & hypotheses of the [whitepaper v0.2.7](../Open%20protocol/v0.2/Open%20protocol%20v0.2.7.pdf) in three main areas
 
-
-**Breaking changes**
+#
+# Breaking changes v1.0
 1. APR switched from fixed to algorithmically determined range bound stable rates.
 2. Dividends, secondary rewards layer is removed to de-stress the protocol.
 3. Liquidation: Liquidation price formula is updated.
+
+> Join us: https://docs.hashstack.finance/openings
+## Social
+
+1. Twitter: [twitter.com/0xhashstack](twitter.com/0xhashstack)
+2. Telegram: [t.me/Hashstack_Official](t.me/Hashstack_Official)
+
+<br />
+
+## Contact
+
+1. General queries: [hello@hashstack.finance](hello@hashstack.finance)

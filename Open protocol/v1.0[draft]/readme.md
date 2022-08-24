@@ -30,7 +30,6 @@ This is a working draft, and must be treated as such. Over time, the end product
 ## Social
 
 1. Twitter: [twitter.com/0xhashstack](twitter.com/0xhashstack)
-2. Telegram: [t.me/Hashstack_Official](t.me/Hashstack_Official)
 
 <br />
 

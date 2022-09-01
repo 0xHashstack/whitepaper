@@ -6,7 +6,7 @@ We have released whitepaper for our lending product, Open protocol. Available [h
 
 # Open protocol
 
-> Non-custodial defi's only lending protocol  enabling under-collateralised loans at 1:3 collateral-to-debt ratio.
+> Zk native money market protocol enabling secure under-collateralized loans.
 
 <br />
 Author: Hashstack 
